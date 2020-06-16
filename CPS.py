@@ -10,7 +10,7 @@ class CPSAPi(object):
     def __init__(self, name):
         self.app = Flask(name)
         self.ip="0.0.0.0"
-        self.port=80
+        self.port=5001
         self.data=[]
 
     def run(self):
