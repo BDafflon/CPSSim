@@ -1,1 +1,1 @@
-python main.py --enable-threadspip install -r requirements.txt
+web: python main.py --enable-threads
