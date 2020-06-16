@@ -1,1 +1,1 @@
-web: python main.py --enable-threadspip install -r requirements.txt
+python main.py --enable-threadspip install -r requirements.txt
